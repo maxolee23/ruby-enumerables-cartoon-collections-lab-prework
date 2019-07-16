@@ -10,8 +10,8 @@ i = 0
   end 
 end
 
-def summon_captain_planet# code an argument here
-  # Your code here
+def summon_captain_planet(array)
+
 end
 
 def long_planeteer_calls# code an argument here
